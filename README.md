@@ -22,9 +22,6 @@ In This Project, we are Developing and Deploying a video streaming application o
 
 Clone this Repository
 
-```elixir
-git clone https://github.com/devcloudninjas/DevOps-Projects.git
-```
 
 # **Project Architecture**
 
