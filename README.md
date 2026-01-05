@@ -320,11 +320,3 @@ sudo service codedeploy-agent status
 
 ![](https://miro.medium.com/v2/resize:fit:1146/1*AXXMABbwjT5zFi5zibzP5A.png)
 
-# Thank you
-
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
-
-#### Author by [DevCloud Ninjas](https://github.com/devcloudninjas)
-
-### Ensure to follow me on GitHub. Please star/share this repository
-![](https://imgur.com/ZdiaMeo.gif)
